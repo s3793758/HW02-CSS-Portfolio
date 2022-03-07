@@ -9,5 +9,5 @@ Link to deployed application:https://s3793758.github.io/HW02-CSS-Portfolio/
 This is a screenshot:
 ![screenshot1](https://user-images.githubusercontent.com/58293386/156590808-dba7cf62-c1a6-424d-aa36-41729d8ee786.png)
 
-
+Another screenshot:
 ![screenshot2](https://user-images.githubusercontent.com/58293386/156590872-a2352098-8d39-494a-bbc6-4c11c58304c7.png)
